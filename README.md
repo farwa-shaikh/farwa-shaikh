@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
@@ -18,7 +17,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 ###
 
@@ -26,7 +25,7 @@
 
 ###
 
-<p align="left">I’m working as IT Manager<br>- 📚 I'm currently learning Advance AI<br>- ⚡ </p>
+<p align="left">I’m working as an IT Manager<br>- 📚 currently learning Advance AI<br>-</p>
 
 ###
 
@@ -35,13 +34,12 @@
 ###
 
 <div align="left">
-  <<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python wordmark logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Ooops! :</h3>
 
 ###
 
