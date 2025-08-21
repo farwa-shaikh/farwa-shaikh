@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I’m working as an IT Manager<br>- 📚 currently learning Advance AI<br>-</p>
+<p align="left">I’m working as an IT Manager<br>- 📚 currently learning Advance AI<br></p>
 
 ###
 
