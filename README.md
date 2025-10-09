@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">I’m working as an IT Manager<br>- 📚 currently learning Advance AI<br></p>
+<p align="left">I’m working as an IT Engineer<br>- 📚 Currently learning AI for Electronics<br></p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages</h3>
 
 ###
 
