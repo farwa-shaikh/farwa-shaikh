@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I’m working as an IT Engineer<br>- 📚 Currently learning AI for Electronics<br></p>
+<p align="left">I’m working as an Engineer<br>- 📚 Currently learning AI<br></p>
 
 ###
 
