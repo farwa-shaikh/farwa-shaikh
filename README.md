@@ -31,14 +31,13 @@
 ### 🖥️ &nbsp;`~/about-me`
 
 ```yaml
-name:           Farwa
-role:           AI Engineer & Research Assistant
+role:           AI Engineer & Research Assistant / IT Manager
 location:       Karachi, Pakistan
 education:      B.E. Electronic Engineering, MUET
 current_focus:  Adversarial AI · Deepfake Protection · LLM Agents
 mission:        Making AI security research accessible to everyone
 looking_for:    Masters/GRA opportunities · Professor collaborations
-status:         🟢 actively building & researching
+status:         actively building & researching
 ```
 
 ---
@@ -59,7 +58,6 @@ status:         🟢 actively building & researching
 - 🛡️ Building **[Patterned Shield](#)** — a browser-based tool that disrupts deepfake facial-landmark detection using Moiré patterns, asymmetric lighting & reflective hotspot simulation
 - 🧠 Researching **GNNs** for community detection, link prediction & co-authorship network analysis
 - 🤖 Building **LangChain/LangGraph agents** that explain *why* an image may be manipulated
-- 🔐 Completed an MSc Cybersecurity project — lightweight ML-based web attack detection system
 - 🌾 Co-authored an IoT paper on sugarcane disease detection (YOLOv8 + ResNet, ~98% accuracy)
 - ⚡ Implemented Louvain community detection + Isolation Forest **from scratch in JavaScript** — no Python backend, fully browser-based
 
