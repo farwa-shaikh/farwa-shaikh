@@ -6,15 +6,15 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D7377?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/farwa-shaikh06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:farwasshaikh@gmail.com"><img src="https://img.shields.io/badge/Email-0D7377?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/farwa-shaikh"><img src="https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=0D7377" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0d7377&style=flat&label=PROFILE+VIEWS" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=farwa-shaikh&color=0D7377" />
+  <img src="https://komarev.com/ghpvc/?username=farwa-shaikh&color=0d7377&style=flat&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_RESEARCH_COLLAB-39FF14?style=flat&labelColor=14213D" />
 </div>
 
