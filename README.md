@@ -12,13 +12,10 @@
 <h1 align="center">Hi, I'm Farwa 👋</h1>
 <h3 align="center">AI Engineer · Computer Vision · LLMs · Adversarial AI Research</h3>
 
-###
-
-# 💫 About Me:
-🛡️ Building Patterned Shield — a browser-based tool that disrupts deepfake facial-landmark detection using Moiré patterns, asymmetric lighting & reflective hotspot simulation<br>🧠 Researching GNNs for community detection, link prediction & co-authorship network analysis<br>🤖 Building LangChain/LangGraph agents that explain why an image may be manipulated<br>🔐 Completed an MSc Cybersecurity project — lightweight ML-based web attack detection system<br>🌾 Co-authored an IoT paper on sugarcane disease detection (YOLOv8 + ResNet, ~98% accuracy)<br>⚡ Implemented Louvain community detection + Isolation Forest from scratch in JavaScript — no Python backend, fully browser-based
 
 
-## 🌐 Socials:
+
+🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farwasshaikh@gmail.com) 
 
 # 💻 Tech Stack:
