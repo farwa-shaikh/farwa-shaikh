@@ -29,17 +29,14 @@ const farwa = {
     role: "AI Engineer & Research Assistant",
     background: ["Computer Vision", "GNNs", "NLP/LLMs", "Cybersecurity", "IoT"],
     currentFocus: "Adversarial AI & Deepfake Protection",
-    goal: "Making AI security research accessible to everyone",
-    lookingFor: "Masters/GRA opportunities & professor collaborations",
-    motto: "Build it, break it, secure it."
+    goal: "Making AI security research accessible to everyone"
+
 };
 ```
 
 - 🔭 Currently building **Patterned Shield** — a browser-based deepfake protection tool
 - 🌱 Currently deepening my skills in **Adversarial Machine Learning** and **LangChain agents**
-- 🎯 Researching **GNNs** for community detection, link prediction & network security
-- 🤝 Actively looking to collaborate with **professors and researchers** in AI security / computer vision
-- ⚡ Fun fact: I implemented Louvain community detection and Isolation Forest **from scratch in JavaScript**, no Python backend
+- ⚡ I implemented Louvain community detection and Isolation Forest **from scratch in JavaScript**, no Python backend
 
 ###
 
@@ -129,19 +126,6 @@ If that's you — let's talk.
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-###
 
 <div align="center">
   <i>"Build it, break it, secure it."</i>
