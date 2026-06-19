@@ -1,64 +1,185 @@
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:14213D&height=220&section=header&text=FARWA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Adversarial%20AI%20Research&descAlignY=58&descSize=18" />
+
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=farwa.farwa&" />
-  <img src="https://komarev.com/ghpvc/?username=farwa&color=0d7377&style=flat" alt="profile views" />
+
+<a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D7377?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </div>
 
-###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=0D7377" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0d7377&style=flat&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_RESEARCH_COLLAB-39FF14?style=flat&labelColor=14213D" />
+</div>
 
-<h1 align="center">Hi, I'm Farwa 👋</h1>
-<h3 align="center">AI Engineer · Computer Vision · LLMs · Adversarial AI Research</h3>
+<br>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=900&color=0DE5FF&center=true&vCenter=true&width=620&lines=whoami;AI+Engineer+%7C+Adversarial+ML+Researcher;Building+Patterned+Shield+%F0%9F%9B%A1%EF%B8%8F;Protecting+faces+from+Deepfakes;Open+to+Professor+Collaborations" />
+</div>
 
+<br>
 
+---
 
-🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farwasshaikh@gmail.com) 
+### 🖥️ &nbsp;`~/about-me`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=farwa-shaikh&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=farwa-shaikh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=farwa-shaikh&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+```yaml
+name:           Farwa
+role:           AI Engineer & Research Assistant
+location:       Karachi, Pakistan
+education:      B.E. Electronic Engineering, MUET
+current_focus:  Adversarial AI · Deepfake Protection · LLM Agents
+mission:        Making AI security research accessible to everyone
+looking_for:    Masters/GRA opportunities · Professor collaborations
+status:         🟢 actively building & researching
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->facial landmark detection used by deepfake AI. 100% client-side — no server, no data upload.
+### 🔬 &nbsp;Research Focus
 
-`JavaScript` `Canvas API` `Adversarial AI` `Computer Vision`
+<div align="center">
 
-[🔗 View Project](#) · [🚀 Live Demo](#)
+<img src="https://img.shields.io/badge/Adversarial_Machine_Learning-0D7377?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Deepfake_Detection-FF2D78?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-14213D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Security-39A845?style=for-the-badge&logoColor=white" />
+
+</div>
+
+<br>
+
+- 🛡️ Building **[Patterned Shield](#)** — a browser-based tool that disrupts deepfake facial-landmark detection using Moiré patterns, asymmetric lighting & reflective hotspot simulation
+- 🧠 Researching **GNNs** for community detection, link prediction & co-authorship network analysis
+- 🤖 Building **LangChain/LangGraph agents** that explain *why* an image may be manipulated
+- 🔐 Completed an MSc Cybersecurity project — lightweight ML-based web attack detection system
+- 🌾 Co-authored an IoT paper on sugarcane disease detection (YOLOv8 + ResNet, ~98% accuracy)
+- ⚡ Implemented Louvain community detection + Isolation Forest **from scratch in JavaScript** — no Python backend, fully browser-based
+
+---
+
+### 🛠️ &nbsp;Tech Arsenal
+
+<div align="center">
+
+**AI / Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+
+<br><br>
+
+**Frontend / Creative Engineering**
+<br>
+<img src="https://skillicons.dev/icons?i=js,html,css,d3&theme=dark" />
+
+<br><br>
+
+**Security / Infra**
+<br>
+<img src="https://skillicons.dev/icons?i=linux,git,flask,docker&theme=dark" />
+
+</div>
+
+---
+
+### 🏅 &nbsp;Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-0D7377?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-CCNA-14213D?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/EC--Council-CEH-1A5276?style=for-the-badge&logo=ec-council&logoColor=white" />
+
+</div>
+
+---
+
+### 📌 &nbsp;Featured Project
+
+<div align="center">
+
+<table>
+<tr>
+<td width="600">
+
+<h3>🛡️ Patterned Shield</h3>
+<i>Browser-based deepfake image protection tool</i>
+
+<br><br>
+
+A client-side tool implementing three adversarial disruption techniques — Moiré mesh overlays, asymmetric dual-lighting, and reflective hotspot simulation — to confuse facial-landmark detection used by deepfake AI. Zero server. Zero data upload. Runs entirely in-browser.
+
+<br><br>
+
+<code>JavaScript</code> &nbsp;<code>Canvas API</code> &nbsp;<code>Adversarial AI</code> &nbsp;<code>Computer Vision</code>
+
+<br><br>
+
+<a href="#"><img src="https://img.shields.io/badge/View_Repo-0D7377?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-39FF14?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
 </td>
 </tr>
 </table>
 
-###
+</div>
 
-### 🤝 Let's Collaborate
+---
 
-I'm actively seeking research collaboration with professors and labs working in:
-**Computer Vision · Adversarial ML · AI Security · Media Forensics**
-
-If that's you — let's talk.
-
-<p align="left">
-  <a href="https://linkedin.com/in/farwa-shaikh06" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:farwasshaikh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/farwa-shaikh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <i>"Build it, break it, secure it."</i>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0DE5FF&icon_color=FF2D78&text_color=C9D1D9&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=0DE5FF&fire=FF2D78&currStreakLabel=0DE5FF" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0DE5FF&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0DE5FF&line=FF2D78&point=39FF14" height="165" />
+
+</div>
+
+---
+
+### 🐍 &nbsp;Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<sub align="center">⚙️ Generated automatically via GitHub Actions — see setup note below</sub>
+
+---
+
+### 🤝 &nbsp;Let's Collaborate
+
+<div align="center">
+
+<br>
+<b>Computer Vision · Adversarial ML · AI Security · Media Forensics</b>
+
+<br><br>
+
+If that's you, my inbox is open. 🛡️
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:0D7377&height=120&section=footer" />
+</div>
+
+<div align="center">
+<sub><i>"Build it, break it, secure it."</i></sub>
 </div>
